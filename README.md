@@ -8,7 +8,7 @@ GopherTask is a simple and easy-to-use command-line interface (CLI) based task m
 To install GopherTask, you need to have Go installed on your machine. Clone the repository and build the executable using the following commands:
 
 ```
-git clone https://github.com/your-username/gopherTask.git
+git clone https://github.com/backendArchitech/gopherTask.git
 cd gopherTask
 go build
 ```
