@@ -1,3 +1,3 @@
-module github.com/gopherTask
+module github.com/backendArchitech/gopherTask
 
 go 1.19
